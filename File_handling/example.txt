@@ -1,0 +1,3 @@
+roll: 1 , name: j , score: 66.00
+roll: 2 , name: g , score: 77.80
+roll: 3 , name: l , score: 65.00

@@ -1,0 +1,9 @@
+/*
+filename = scores.txt
+
+write score of  5 students to file
+roll: <roll_number> , name: <student_name> , score: <score>
+
+read the scores from file and print them
+
+*/
