@@ -1,0 +1,1 @@
+// Write a program in C to display all prime factor of a number in descending order. 

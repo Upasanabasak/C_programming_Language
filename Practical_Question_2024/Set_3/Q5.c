@@ -1,0 +1,1 @@
+//  Write a program in C to check whethera given number is an armstrong number or not using function.

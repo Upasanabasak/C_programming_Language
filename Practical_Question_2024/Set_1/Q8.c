@@ -1,0 +1,1 @@
+//  Write a C program that reads a file containing integers and append at its end the sum of all the integers.

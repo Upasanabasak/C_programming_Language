@@ -1,0 +1,1 @@
+// Write a C program to merge the contents of two files 'first.dat' and 'second.dat' to a new file named 'result.dat'.

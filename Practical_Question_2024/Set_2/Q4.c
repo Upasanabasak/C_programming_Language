@@ -1,0 +1,3 @@
+/* Write a program in C to find maximum and second maximum numbers from an array with integers.
+   Then swap these two numbers.Do not use sorting technique.
+*/
