@@ -35,6 +35,6 @@ int main()
     error = fabs( cosine - s );
     printf("\nValue of cos(%.1f) as per libery function is : %0.3f", t, s);
     printf("\nValue of cos(%.1f) as per series is : %0.3f", t, cosine);
-    printf("\nError : 0.3f", error);
+    printf("\nError : %0.3f", error);
     return 0;
 }
