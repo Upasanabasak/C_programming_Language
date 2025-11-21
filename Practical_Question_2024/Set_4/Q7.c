@@ -1,6 +1,6 @@
 /* Define a structure named 'student' which contains following fields : 
    roll, name, marks in subject 1 and marks in subject2. 
-Write a program in C to find the name and roll no. of the student who achieved highest marks in each.
+    Write a program in C to find the name and roll no. of the student who achieved highest marks in each.
 */
 
 #include <stdio.h>

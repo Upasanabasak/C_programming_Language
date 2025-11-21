@@ -1,3 +1,5 @@
+// Write a program in C to check whether a string entered by the user is palindrome or not.
+
 #include <stdio.h>
 #include <string.h>
 

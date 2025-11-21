@@ -1,5 +1,6 @@
 /* Write a program in C to find the value of x from following series: 
-cos(x) = 1 − x²/2! + x⁴/4! − x⁶/6! + ... for all value of x. The program must be corrected up to 3 decimal places of accuracy. 
+    cos(x) = 1 − x²/2! + x⁴/4! − x⁶/6! + ... for all value of x. 
+    The program must be corrected up to 3 decimal places of accuracy. 
 */
 
 #include <stdio.h>

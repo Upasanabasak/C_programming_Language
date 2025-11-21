@@ -1,10 +1,10 @@
 /*Write a program in C to swap maximum and minimum elements in a matrix (2D-array). 
-The matrix should be taken as input from user.
-Example : 
-array[5][2] ={{ 5 ,4,3,2,1},
+    The matrix should be taken as input from user.
+    Example : 
+    array[5][2] ={{ 5 ,4,3,2,1},
                      {7,8,9,5,6}}
-after swapping 
-array[5][2]= {{5,4,3,2,9},
+    after swapping 
+    array[5][2]= {{5,4,3,2,9},
                     {7,8,1,5,6}}
 */
 
