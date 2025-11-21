@@ -1,3 +1,3 @@
 /* Write a program in C to take an integer array as input and perform insertion operation at desired index position entered by the user. 
-The data to be inserted is also taken as input. 
+   The data to be inserted is also taken as input. 
 */
