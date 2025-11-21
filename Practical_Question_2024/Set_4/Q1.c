@@ -1,4 +1,4 @@
-/*Write a program in C to swap maximum and minimum elements in a matrix (1D-array). 
+/*Write a program in C to swap maximum and minimum elements in a matrix (2D-array). 
 The matrix should be taken as input from user.
 Example : 
 array[5][2] ={{ 5 ,4,3,2,1},
