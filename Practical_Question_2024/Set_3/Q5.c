@@ -3,9 +3,20 @@
 #include <stdio.h>
 #include <math.h>
 
+int power(int base, int exp) 
+{
+    int result = 1;
+    for (int i = 0; i < exp; i++) 
+    {
+        result *= base;
+    }
+    return result;
+}
+
 int armstrong(int num)
 {
-    int t = num, c = 0, r, sum = 0;
+    int t = num, c = 0, r;
+    double sum = 0.0;
 
     // Count digits
     while (t > 0)
@@ -20,7 +31,8 @@ int armstrong(int num)
     while (t > 0)
     {
         r = t % 10;
-        sum += pow(r, c);
+        sum += pow(r, c); // 124.99
+        // sum += power(r, c);
         t /= 10;
     }
 
