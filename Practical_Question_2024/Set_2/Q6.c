@@ -26,14 +26,24 @@ int main()
     // Input first matrix
     printf("\nEnter elements of first matrix:\n");
     for(i = 0; i < r1; i++)
+    {
         for(j = 0; j < c1; j++)
+        {
+            printf("\nPosition [%d][%d] : ", i+1, j+1);
             scanf("%d", &a[i][j]);
+        }
+    }
 
     // Input second matrix
     printf("\nEnter elements of second matrix:\n");
     for(i = 0; i < r2; i++)
+    {
         for(j = 0; j < c2; j++)
+        {
+            printf("\nPosition [%d][%d] : ", i+1, j+1);
             scanf("%d", &b[i][j]);
+        }
+    }
 
     // Initialize result matrix to 0
     for(i = 0; i < r1; i++)
