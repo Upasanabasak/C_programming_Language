@@ -22,7 +22,7 @@ int main()
     {
         if(a[i] > max)
         {
-            max =a[i];
+            max = a[i];
             c++;
         }
     }

@@ -1,1 +1,1 @@
-// Write a program in C to add two complex numbers using structure. Display the result in proper format of complex numb
+// Write a program in C to add two complex numbers using structure. Display the result in proper format of complex number.
