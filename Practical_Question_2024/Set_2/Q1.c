@@ -6,13 +6,22 @@
 
 int main()
 {
-    int num, numer, denum, term;
-    printf("\nEnter number : ");
-    scanf("%d", &num);
+    int n, i, j;
+    double sum = 1.0, fact;
 
-    numer = 1;
-    while(1)
+    printf("Enter value of n: ");
+    scanf("%d", &n); 
+
+    for(i = 2; i <= n; i++)  
     {
-        for( denum = 1; denum <= num)
+        fact = 1;
+        for(j = 1; j <= i; j++)
+            fact *= j;
+
+        sum += 1.0 / fact;
     }
+
+    printf("Sum of series = %.2lf", sum);
+
+    return 0;
 }
